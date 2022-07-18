@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621626114 source:c:\users\islam\onedrive\desktop\data structer by c language\3 project\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
